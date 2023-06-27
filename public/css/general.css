@@ -1,0 +1,31 @@
+:root {
+  --tipografiatitulos: "Raleway", sans-sarif;
+  --tipografiaemilia: "Work Sans", sans-sarif;
+  --tipografiageneral: "Open Sans", sans-sarif;
+  --colorverdetitulo: #44a391;
+}
+
+body {
+  font-family: var(--tipografiageneral);
+  font-weight: 300;
+}
+
+h1 {
+  font-family: var(--tipografiatitulos);
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 65px;
+}
+
+li {
+  list-style: none;
+}
+
+ul {
+  padding-left: 0px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}

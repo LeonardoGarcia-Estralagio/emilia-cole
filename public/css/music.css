@@ -1,0 +1,24 @@
+.music ul {
+    padding-left: 30px;
+}
+
+.music main a {
+    color: grey;
+}
+
+.music main section {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.music main section ol li {
+    list-style-type: decimal-leading-zero;
+}
+
+.music main section p {
+    line-height: 10px;
+}
+
+.music main section h4 {
+    text-transform: uppercase;
+}

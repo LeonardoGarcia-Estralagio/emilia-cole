@@ -1,0 +1,18 @@
+.contact main iframe {
+  width: 100%;
+}
+
+.contact main h3 {
+  margin-top: 50px;
+  text-transform: uppercase;
+}
+
+.contactos h3 {
+  margin-bottom: -30px;
+}
+
+.contact h4 {
+  padding-top: 30px;
+  font-weight: normal;
+  color: var(--colorverdetitulo);
+}
